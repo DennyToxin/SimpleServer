@@ -1,0 +1,20 @@
+body {
+  margin: 0;
+  padding: 0;
+
+  background-color: black;
+  overflow: hidden;
+}
+
+h1 {
+  width: 100%;
+  position: absolute;
+  text-align: center;
+  color: #fff;
+}
+
+img {
+  width: 100vw;
+  height: 100vh;
+  object-fit: cover;
+}
